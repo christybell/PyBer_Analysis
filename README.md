@@ -5,7 +5,7 @@
 ## Resources
 - **Data Sources**: 
 - **Software**: Python 3.7.6, Anaconda 4.9.2, Git Bash 2.29.2
-- **Tools**: Jupyter Notebook, Pandas, Matplotlib 
+- **Tools**: Jupyter Notebook, Pandas, Matplotlib 3.3.2 
 
 ## Summary
 
