@@ -24,7 +24,7 @@ As a recently hired data analyst for PyBer, a Python-based ride-sharing app comp
 - **Tools**: Jupyter Notebook, Pandas, Matplotlib 3.3.2 
 
 ## Challenge Overview
-In my next assignment, I've been tasked to use my Python skills and knowledge of Pandas to create a summary DataFrame of the ride-sharing data by city type. Then, using Pandas and Matplotlib, I created a multiple-line graph that shows the total weekly fares for each city type. Lastly, I've summarized below how the data differs by city type and how those differences can be used by decision-makers at PyBer.
+In my next assignment, I was tasked to use my Python skills and knowledge of Pandas to create a summary DataFrame of the ride-sharing data by city type. Then, using Pandas and Matplotlib, I created a multiple-line graph that shows the total weekly fares for each city type. Lastly, I summarized how the data differs by city type and how those differences can be used by decision-makers at PyBer.
 
 ## Challenge Deliverables
 
@@ -76,12 +76,22 @@ In my next assignment, I've been tasked to use my Python skills and knowledge of
 	
 - Finally, I created an annotated chart showing the total fares by city type and saved it to the "analysis" folder:
 	
-	<img src="analysis/PyBer_fare_summary.PNG">
+	<img src="analysis/PyBer_fare_summary.png">
 	
 ## Challenge Results
-Using images from the summary DataFrame and multiple-line chart, describe the differences in ride-sharing data among the different city types.
-
-There is a description of the differences in ride-sharing data among the different city types. Ride-sharing data include the total rides, total drivers, total fares, average fare per ride and driver, and total fare by city type. 
+My analysis revealed several differences in ride-sharing data among the different city types, as noted below: 
+- **total rides** - The urban city type accounted for the largest amount of total rides by far, totaling 1,625, while suburban totaled 625 and rural totaled 125 rides.
+- **total drivers** - The urban city type had the highest number of total drivers at 2,405, while the suburban type had 490 and rural had 78.
+- **average fare per ride** - The average fare per ride was lowest for urban cities at $24.53, the suburban average was $30.97, and the rural average was highest at $34.62.
+- **average fare per driver** - The average fare per driver was lowest for urban cities at $16.57, the suburban average was $39.50, and the rural average was highest at $55.49.
+- **total fare by city type** - The urban city type had the largest sum of total fares, coming in at almost $40,000. The suburban total was close to $20,000 and the rural total was just over $4,000.
 
 ## Challenge Summary
-Based on the results, provide three business recommendations to the CEO for addressing any disparities among the city types. 
+In summary, based on these results, I would make three recommendations to the CEO for addressing the disparities among the city types and improve the overall business economics:
+
+1. To encourage and attract a broader population to use ridesharing, I'd recommend the company offer special promotions and discounts for rural and suburban rides for a limited time. 
+
+2. I'd suggest the company recruit more rural drivers to increase convenience for riders in those city types. If the company hasn't already, I'd also propose it consider adopting policies to retain its current pool of drivers so as not to put strains on margins for driver quality and customer loyalty.
+
+3. For continued growth, I'd suggest the company consider offering a loyalty program to encourage its existing population to use ridesharing in a wider range of circumstances.
+
